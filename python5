@@ -1,0 +1,32 @@
+1)HTML (Hyper Text Markup Language); web sayfalarını oluşturmak için kullanılan standart metin işaretleme dilidir. Bir sayfanın iskeletini oluşturmamızı sağlarken temel olarak, yazı, görsel ve video gibi öğeleri sayfa içerisine yerleştirme ve konumlandırma, bu sayfaların web tarayıcılarında düzgün şekilde görüntülenmesi, arama motorlarına sayfa hakkında bilgi verme gibi işlemleri gerçekleştirir. 
+
+
+2)HTML LOCATORS: Web sayfalarında belirli elemanların yerini tespit etmek için kullanırız.
+ID
+ClassName
+CssSelector
+XPath
+DOM Locator
+Name
+TagName
+LinkText
+
+
+3)Selenium Aksiyonları
+doubleClick(): Öğe üzerinde çift tıklama gerçekleştirir.
+clickAndHold(): Fareyi bulunduğu noktada basılı tutmayı sağlar.
+dragAndDrop(): Elemanı bir noktadan sürükleyip diğerine bırakır.
+Select_by_visible_text(): Görünür metine tıklamak için kullanılır.
+moveToElement(): Fare işaretçisini öğenin merkezine kaydırır.
+contextClick(): Fare üzerinde sağ tıklama gerçekleştirir.
+sendKeys(): Seçili alana metin gönderir.
+keyUp(): Basılı tuşu serbest bırakma işlemini gerçekleştirir.
+keyDown(): Basılı tuşu serbest bırakmadan yeni tuşa basmayı gerçekleştirir.
+Maximize_window() : Tam ekran yapmak için kullanılır. 
+clear() : Metin kutusundaki mevcut metni silmek için kullanılır. 
+pause() : Testi duraklatır. 
+back() : Önceki sayfaya dönmek için kullanılır. 
+forward() : Sonraki sayfaya gitmek için kullanılır. 
+refresh() : Sayfayı yenilemek için kullanılır.
+submit (): Teslim etmek/göndermek için kullanılır. 
+scroll (): Aşağı veya yukarı kaydırmak için kullanılır
